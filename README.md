@@ -14,4 +14,10 @@ siendo visibles incluso con telescopios de baja potencia.
 en una composición que compara sus tamaños con el tamaño de Júpiter. 
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
+Se cree que los satélites regulares de Júpiter se formaron a partir de un disco 
+circumplanetario, un anillo de gas en acreción y escombros sólidos análogo a un 
+disco protoplanetario. Podrían ser los restos de una veintena de satélites de 
+masa similar a la de las lunas galileanas, que se formaron en los inicios de 
+la historia de Júpiter (Wikipedia)
+
 Otros satélites de Júpiter son Titán, Amaltea, Lisitea y Elara.
